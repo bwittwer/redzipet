@@ -1,0 +1,7 @@
+name: "redzipet"
+domain: "net.bwittwer"
+display_name: "redzipet"
+short_description: "Redzipet Webapp"
+type: DAEMON
+main_class: "ninja.standalone.NinjaJetty"
+platforms: [ WINDOWS, LINUX, MAC_OSX ]
